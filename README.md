@@ -9,9 +9,9 @@ I enjoy building networks, understanding how they break, and figuring out how to
 
 ### 🔧 What I work with
 
-- **Networking:** Cisco IOS-XE, CCNA 1–2, VLANs, routing & switching, TCP/IP, subnetting, DHCP/DNS
-- **Security:** firewalls (Zone-Based Firewall), Control Plane Policing, DoS analysis, vulnerability assessment
-- **Systems & tools:** Windows, Linux (Ubuntu/Kali), VMware, GNS3, Wireshark, hping3, iperf3
+- **Networking:** Cisco IOS-XE, CCNA 1–2, VLANs, routing & switching, TCP/IP, subnetting, DHCP/DNS.
+- **Security:** firewalls (Zone-Based Firewall), Control Plane Policing, DoS analysis, vulnerability assessment.
+- **Systems & tools:** Windows, Linux (Ubuntu/Kali), VMware, GNS3, Wireshark, hping3, iperf3.
 
 ### 📌 Featured project
 
@@ -28,7 +28,7 @@ My First-Class final-year project. I built a full three-tier enterprise network 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alberto-novas-5a690625b)
 - 📧 albertonovas013@gmail.com
-- 🌍 London, UK · fluent in English & Spanish · open to entry-level IT roles
+- 🌍 London, UK · fluent in English & Spanish · open to entry-level IT roles.
 
 ---
 
